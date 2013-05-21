@@ -1,4 +1,6 @@
 #!/bin/bash
+# https://github.com/cedriczirtacic/nagios-plugins
+# cicatriz.r00t@gmail.com
 
 DEBUG=false
 #some config variables
