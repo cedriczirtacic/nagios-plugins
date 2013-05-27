@@ -19,3 +19,10 @@ Actions:
         * ping
         * traffic (w|c)
 ```
+
+### check_tsm.pl
+Plugin for IBM's Tivoli Storage Manager
+```bash
+Usage:  check_tsm.pl [-d|--options dsmadmc_options][-p|--password] [-u|--username] [-s|--servername]
+           [-m|--monitor] -w warning -c critical
+```
