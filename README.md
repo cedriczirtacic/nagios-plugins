@@ -26,3 +26,9 @@ Plugin for IBM's Tivoli Storage Manager
 Usage:  check_tsm.pl [-d|--options dsmadmc_options][-p|--password] [-u|--username] [-s|--servername]
            [-m|--monitor] -w warning -c critical
 ```
+
+### check_asterisk_peer.pl
+Check SIP peer status
+```bash
+Usage: ./check_asterisk_peer.pl <peer>
+```
